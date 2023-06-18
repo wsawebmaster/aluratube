@@ -50,7 +50,7 @@ Siga esses passos para instalar o repositório na sua máquina:
 
 ## 💻 Projeto
 
-[Acessar o projeto](https://vercel.com/wsawebmaster/aluratube)
+[Acessar o projeto](https://aluratube-tau-blue.vercel.app/)
 
 ---
 ## 📧 Contato
