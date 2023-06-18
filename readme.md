@@ -8,13 +8,11 @@
 <br />
 
 ## 📃 Descrição do projeto
----
 Desenvolvido durante participação da Imersão React na Alura.
 
 <br />
 
 ## 🔖 Layout
----
 Segue abaixo o layout deste projeto:
 
 - [Figma](https://www.figma.com/file/1acrju7CLwHkSh6e7xEk9h/Aluratube?t=OJ2eMKroGbD0jo6r-6)
@@ -22,7 +20,6 @@ Segue abaixo o layout deste projeto:
 <br />
 
 ## 🛠️ Instalação
----
 Siga esses passos para instalar o repositório na sua máquina:
 
 1. Dê um git clone no repositório;
@@ -34,7 +31,6 @@ Siga esses passos para instalar o repositório na sua máquina:
 
 
 ## 🚀 Tecnologias
----
   - JavaScript
   - DOM
   - Node
